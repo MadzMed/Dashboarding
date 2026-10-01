@@ -4,7 +4,7 @@
 
 Vous travaillez en groupe de **4 personnes maximum**.
 
-L’objectif est de concevoir un **dashboard Power BI clair, lisible et utile à la prise de décision**, puis de le présenter en **5 minutes maximum**.
+L’objectif est de concevoir un **dashboard Power BI clair, lisible et utile à la prise de décision**, puis de le présenter en **5 à 10 minutes maximum**.
 
 Le dashboard doit permettre de comprendre rapidement les informations importantes du jeu de données et de faire ressortir un message principal.
 
